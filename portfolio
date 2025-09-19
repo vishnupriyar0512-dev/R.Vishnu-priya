@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>R. Vishnupriya - Portfolio</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <!-- Profile Section -->
+        <header class="profile">
+            <img src="https://i.postimg.cc/52QHSTrq/In-Shot-20250912-194833897.jpg" alt="Profile Picture" class="profile-pic" />
+            <div class="profile-info">
+                <h1>R. Vishnupriya</h1>
+                <p>Phone: <a href="tel:+91792534921">0792534921</a></p>
+                <p>Email: <a href="mailto:priya@gmail.com">priya@gmail.com</a></p>
+            </div>
+        </header>
+
+        <!-- Objective -->
+        <section>
+            <h2>Objective</h2>
+            <p>Experienced in Web Development, skilled in HTML, CSS, and Python. Passionate about creating modern, user-friendly web applications.</p>
+        </section>
+
+        <!-- Qualifications -->
+        <section>
+            <h2>Qualifications</h2>
+            <p>+2 – Sairam Matric Hr. Sec. School</p>
+        </section>
+
+        <!-- Skills -->
+        <section>
+            <h2>Skills</h2>
+            <ul class="skills-list">
+                <li class="skill-item">Python</li>
+                <li class="skill-item">Java</li>
+                <li class="skill-item">HTML</li>
+                <li class="skill-item">CSS</li>
+                <li class="skill-item">Video Editing</li>
+                <li class="skill-item">Drawing</li>
+            </ul>
+        </section>
+
+        <!-- Certifications -->
+        <section>
+            <h2>Certifications & Achievements</h2>
+            <ul>
+                <li>Naan Mudhalvan</li>
+                <li>Web Designing</li>
+                <li>Sports Activities</li>
+            </ul>
+        </section>
+
+        <!-- Back to Top -->
+        <button id="backToTop" class="back-to-top">↑</button>
+    </div>
+</body>
+</html>
